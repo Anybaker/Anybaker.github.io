@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://anybaker.github.io/</loc>
-    <lastmod>2025-01-13T17:30:38+08:00</lastmod>
+    <lastmod>2025-01-13T18:31:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -20,11 +20,11 @@
                 href="https://anybaker.github.io/"
                 />
   </url><url>
-    <loc>https://anybaker.github.io/p/myfirstblog/</loc>
-    <lastmod>2025-01-13T17:30:38+08:00</lastmod>
+    <loc>https://anybaker.github.io/p/actionstest/</loc>
+    <lastmod>2025-01-13T18:31:36+08:00</lastmod>
   </url><url>
     <loc>https://anybaker.github.io/post/</loc>
-    <lastmod>2025-01-13T17:30:38+08:00</lastmod>
+    <lastmod>2025-01-13T18:31:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -40,6 +40,9 @@
                 hreflang="en"
                 href="https://anybaker.github.io/post/"
                 />
+  </url><url>
+    <loc>https://anybaker.github.io/p/myfirstblog/</loc>
+    <lastmod>2025-01-13T17:30:38+08:00</lastmod>
   </url><url>
     <loc>https://anybaker.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
